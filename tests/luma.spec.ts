@@ -14,7 +14,4 @@
 //     timeout: 10000,
 //   });
 //   await page.getByRole("link", { name: "Tops" }).click();
-
-//   //4. The bot clicks on "Color" from the left pane
-//   //5.
 // });
